@@ -1,0 +1,2 @@
+# educationall
+中高生の教育のためのWebApplicationを目指して作成していきます。
